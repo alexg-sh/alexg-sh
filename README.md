@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alex Grigoras</h1>
-<h3 align="center">Full Stack Software Engineer specializing in TypeScript and Python, based in United Kingdom.</h3>
+<h3 align="center">Full‑stack engineer building AI‑native products with TypeScript & Python • Based in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexg-sh&label=Profile%20views&color=1a7fcb&style=plastic" alt="alexg-sh" /> </p>
 
-- 🔭 I’m currently working on **Echelon**
-
-- 🌱 I’m currently learning **Advanced ML and generative AI topics**
-
-- 👨‍💻 All of my projects are available at [https://alexg.sh](https://alexg.sh)
-
-- 📝 I regularly write articles on [https://alexg.sh/blog](https://alexg.sh/blog)
-
-- 💬 Ask me about **TypeScript, Python, cloud platforms, and AI toolchains**
-
-- 📫 How to reach me **alex@grigoras.org**
+- 🔭 Building: **Echelon**
+- 📚 Exploring: **advanced ML & generative AI**
+- 🧰 I like working on: type‑safe web apps, scalable APIs, cloud infra (AWS/K8s), and AI toolchains
+- ✍️ Writing: [alexg.sh/blog](https://alexg.sh/blog)
+- 🌐 Portfolio: [alexg.sh](https://alexg.sh)
+- 📫 Contact: **alex@grigoras.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,11 +17,16 @@
 <a href="https://leetcode.com/u/alexg_sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alexg_sh/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+<p align="left"><strong>Languages</strong></p>
 <p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  
+</p>
+<p align="left"><strong>Tools</strong></p>
+<p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 	<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -44,8 +44,15 @@
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexg-sh&show_icons=true&locale=en&layout=compact" alt="alexg-sh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexg-sh&show_icons=true&locale=en" alt="alexg-sh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexg-sh&" alt="alexg-sh" /></p>
+<details>
+	<summary><b>By the numbers</b></summary>
+	<p>
+		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexg-sh&show_icons=true&locale=en&layout=compact" alt="alexg-sh top languages" />
+	</p>
+	<p>
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexg-sh&show_icons=true&locale=en" alt="alexg-sh stats" />
+	</p>
+	<p>
+		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexg-sh&" alt="alexg-sh streaks" />
+	</p>
+</details>
