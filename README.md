@@ -1,6 +1,6 @@
 ![Header](https://github.com/alexg-sh/alexg-sh/blob/main/swe.png?raw=true)
 <h1 align="center">👋 Hi, I'm Alex Grigoras</h1>
-<h3 align="center">Full‑stack engineer building AI‑native products with TypeScript & Python • Based in the UK</h3>
+<h3 align="center">Software engineer building AI‑native products with TypeScript & Python • Based in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexg-sh&label=Profile%20views&color=1a7fcb&style=plastic" alt="alexg-sh" /> </p>
 
