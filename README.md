@@ -1,3 +1,4 @@
+![Header](https://github.com/alexg-sh/alexg-sh/blob/main/swe.png?raw=true)
 <h1 align="center">👋 Hi, I'm Alex Grigoras</h1>
 <h3 align="center">Full‑stack engineer building AI‑native products with TypeScript & Python • Based in the UK</h3>
 
