@@ -1,6 +1,6 @@
 ![Header](https://github.com/alexg-sh/alexg-sh/blob/main/swe.png?raw=true)
 <h1 align="center">👋 Hi, I'm Alex Grigoras</h1>
-<h3 align="center">Software engineer building AI‑native products with TypeScript & Python • Based in the UK</h3>
+<h3 align="center">Software engineer building AI‑native products with TypeScript & JavaScript • Based in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexg-sh&label=Profile%20views&color=1a7fcb&style=plastic" alt="alexg-sh" /> </p>
 
@@ -34,36 +34,32 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
 			<sub>JavaScript</sub>
 		</td>
-		<td align="left" width="90">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
-			<sub>Python</sub>
-		</td>
 	</tr>
 </table>
 
 <p><strong>Tools</strong></p>
 
-<table>
-	<tr>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/><br/><sub>AWS</sub></td>
-		<td align="left" width="90"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/><br/><sub>Django</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/><br/><sub>Docker</sub></td>
-		<td align="left" width="90"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/><sub>Git</sub></td>
-		<td align="left" width="90"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/><br/><sub>GraphQL</sub></td>
-		<td align="left" width="90"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br/><sub>Kubernetes</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br/><sub>Linux</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/><br/><sub>MongoDB</sub></td>
-	</tr>
-	<tr>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br/><sub>MySQL</sub></td>
-		<td align="left" width="90"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br/><sub>Next.js</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br/><sub>Node.js</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/><br/><sub>PostgreSQL</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br/><sub>React</sub></td>
-		<td align="left" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/><br/><sub>Redis</sub></td>
-		<td align="left" width="90"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/><br/><sub>Tailwind</sub></td>
-	</tr>
+<table >
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/><br/><sub>Redis</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/><br/><sub>GraphQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br/><sub>Next.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br/><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/><br/><sub>AWS</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/><br/><sub>Docker</sub></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br/><sub>Kubernetes</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br/><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/><sub>Git</sub></td>
+  </tr>
 </table>
+
 
 </div>
 
