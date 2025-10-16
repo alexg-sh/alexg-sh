@@ -12,7 +12,8 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 <p align="center">
-  <a href="https://x.com/alexg_sh" target="_blank" rel="noopener noreferrer">X</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/alexgshh" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:me@alexg.sh">Email</a>
+  <a href="https://alexg.sh" target="_blank" rel="noopener noreferrer">site</a> &nbsp;•&nbsp;
+  <a href="https://x.com/alexg_sh" target="_blank" rel="noopener noreferrer">x</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/alexgshh" target="_blank" rel="noopener noreferrer">linkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:me@alexg.sh">email</a>
 </p>
