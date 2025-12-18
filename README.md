@@ -1,4 +1,3 @@
-![Header](https://github.com/alexg-sh/alexg-sh/blob/main/swe.png?raw=true)
 <pre style="font-family:'Geist Mono', Menlo, 'DejaVu Sans Mono', Consolas, 'Courier New', monospace">
 ╔═══════════════════════════════════════ Hi, I'm Alex Grigoras ════════════════════════════════════════╗
 ║                                                                                                      ║
