@@ -4,7 +4,7 @@
 ║ I'm a software engineer based in the UK. I work on AI-first dev tools and web apps using TypeScript, ║
 ║ Next.js, and AWS, focusing on scalable, modern solutions for developers and startups.                ║
 ║																									   ║
-║ > TypeScript and Node.js as main stack						 									   ║
+║ > C#, TypeScript and Node.js as main stack				   		  						           ║
 ║ > Python for small projects													 					   ║
 ║ > I enjoy building AI & Data Analytics tools					 									   ║
 ║ > DevOps & Cloud Native (Kubernetes, Docker, AWS)				 									   ║
